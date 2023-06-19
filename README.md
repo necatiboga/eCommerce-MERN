@@ -23,6 +23,11 @@ npm install
 cd ..
 npm install
 ```
-
-
+## Start
+Simply use this command to make this website work:
+```bash
+npm run app
+```
+## Creator
+Necati Boga
 
