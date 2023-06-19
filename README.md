@@ -16,4 +16,4 @@ This repository contains the source code for an e-commerce application developed
 
 ```bash
 git clone https://github.com/username/mern-ecommerce.git
-```
+
