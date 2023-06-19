@@ -14,7 +14,7 @@ This repository contains the source code for an e-commerce application developed
 
 1. Clone this repository to your local machine
 ```bash
-git clone https://github.com/username/mern-ecommerce.git
+git clone https://github.com/necatiboga/mern-ecommerce.git
 ```
 2. Navigate to the client and server directories separately and run the following commands in each:
 ```bash
